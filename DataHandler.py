@@ -1,3 +1,5 @@
+# Credit: adapted from original code by Tiziano Fagni, Fabrizio Falchi, Margherita Gambini, Antonio Martella, Maurizio Tesconi, "TweepFake: about Detecting Deepfake Tweets", https://github.com/tizfa/tweepfake_deepfake_text_detection and https://arxiv.org/abs/2008.00036
+
 import csv
 import pandas as pd
 
